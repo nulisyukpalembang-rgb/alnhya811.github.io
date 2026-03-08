@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>alnhya811</title>
+<style>
+body{
+background:black;
+color:#00ff00;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+font-family:monospace;
+font-size:60px;
+}
+</style>
+</head>
+
+<body>
+alnhya811
+</body>
+
+</html>
